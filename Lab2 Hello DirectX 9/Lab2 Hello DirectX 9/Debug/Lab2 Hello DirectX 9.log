@@ -1,0 +1,6 @@
+﻿  Lab2 Hello DirectX 9.cpp
+D:\Facultate\Anul II\Semestrul 2\SMM\Laborator\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9.cpp(57,17): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Facultate\Anul II\Semestrul 2\SMM\Laborator\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9.cpp(58,18): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Facultate\Anul II\Semestrul 2\SMM\Laborator\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9.cpp(71,16): warning C4838: conversion from 'double' to 'FLOAT' requires a narrowing conversion
+D:\Facultate\Anul II\Semestrul 2\SMM\Laborator\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9\Lab2 Hello DirectX 9.cpp(71,16): warning C4244: 'initializing': conversion from 'double' to 'FLOAT', possible loss of data
+  Lab2 Hello DirectX 9.vcxproj -> D:\Facultate\Anul II\Semestrul 2\SMM\Laborator\Lab2 Hello DirectX 9\Debug\Lab2 Hello DirectX 9.exe
